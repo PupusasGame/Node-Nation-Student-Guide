@@ -1,3 +1,5 @@
+![alt text](https://github.com/PupusasGame/Node-Nation-Student-Guide/blob/main/images/banner_es.png)
+
 # Bitcoin Guide Node Nation
 
 Esta guía práctica y divertida que te llevará a través de los conceptos clave de Bitcoin en la que aprenderás conocimientos sobre econommía y tecnología, desde su origen hasta temas más avanzados como minería y lightning network. Los notebooks de Jupyter incluidos cubren los siguientes bloques de información y actividades:
